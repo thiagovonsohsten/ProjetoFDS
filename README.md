@@ -28,14 +28,8 @@
   </ul>
   
   <h2>Nosso Produto</h2>
-  <ul>
+
     
-    <li>
-      <h3>Nome do Produto 2</h3>
-      <p>Definição</p>
-    </li>
-   
-  </ul>
   
 
   
