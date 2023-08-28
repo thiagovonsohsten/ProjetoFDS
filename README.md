@@ -34,8 +34,11 @@
 
   
   <h2>Links</h2>
-  <p>Jira:</p>
-  
-  <p>Figma:</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/JIRA.png/220px-JIRA.png" alt="">
+  <p><strong>Jira(Histórias):</strong></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="">
+  <p><strong>Figma(Protótipo Lo-Fi):</strong></p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Discord_colour_textlogo_%282021%29.svg/250px-Discord_colour_textlogo_%282021%29.svg.png" alt="">
+  <p><strong>Discord(Nosso Canal de comunicação):</strong></p>
 </body>
 </html>
