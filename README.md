@@ -54,7 +54,7 @@
   </li>
   <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/250px-Google_Drive_icon_%282020%29.svg.png" alt="Drive">
-    <p><strong>Drive (Vídeos): <a href="https://drive.google.com/drive/folders/1IQZgEtp__vsEfwzfm4nDA6aC549rs3jV?usp=drive_link">Link para o Drive</a></strong></p>
+    <p><strong>Drive (Screencast): <a href="https://drive.google.com/drive/folders/1IQZgEtp__vsEfwzfm4nDA6aC549rs3jV?usp=drive_link">Link para o Drive</a></strong></p>
   </li>
   <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Discord_colour_textlogo_%282021%29.svg/250px-Discord_colour_textlogo_%282021%29.svg.png" alt="Discord">
