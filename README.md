@@ -31,10 +31,10 @@
    
   </ul>
   
-  <h2>Nosso Produto(Descrição):</h2>
+  <h2>Nosso Produto(Descrição)</h2>
  
 
-  <h2>Links:</h2>
+  <h2>Links das Entregas</h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/JIRA.png/220px-JIRA.png" alt="">
   <p><strong>Jira(Histórias):</strong></p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="">
