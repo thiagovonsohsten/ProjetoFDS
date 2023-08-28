@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+  <title>Loja de Praia - Aplicação Web</title>
 </head>
 <body>
   <h1>Loja de Praia - Aplicação Web</h1>
@@ -40,25 +40,28 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/260px-Python_logo_and_wordmark.svg.png" alt="Python-Django">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/220px-Django_logo.svg.png" alt="Django">
 
-  <h2>Links das Entregas</h2>
-  <ul>
-    <li>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/JIRA.png/220px-JIRA.png" alt="Jira">
-      <p><strong>Jira (Histórias):</strong></p>
-    </li>
-    <li>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma">
-      <p><strong>Figma (Protótipo Lo-Fi):</strong></p>
-    </li>
-    <li>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/250px-Google_Drive_icon_%282020%29.svg.png" alt="Drive">
-      <p><strong>Drive (Vídeos):</strong></p>
-    </li>
-    <li>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Discord_colour_textlogo_%282021%29.svg/250px-Discord_colour_textlogo_%282021%29.svg.png" alt="Discord">
-      <p><strong>Discord (Nosso Canal de comunicação):</strong></p>
-    </li>
-  </ul>
+ 
+<h2>Links das Entregas</h2>
+<ul>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/JIRA.png/220px-JIRA.png" alt="Jira">
+    <p><strong>Jira (Histórias):</strong></p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma">
+    <p><strong>Figma (Protótipo Lo-Fi):</strong></p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/250px-Google_Drive_icon_%282020%29.svg.png" alt="Drive">
+    <p><strong>Drive (Vídeos): <a href="https://drive.google.com/drive/folders/1IQZgEtp__vsEfwzfm4nDA6aC549rs3jV?usp=drive_link">Link para o Drive</a></strong></p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Discord_colour_textlogo_%282021%29.svg/250px-Discord_colour_textlogo_%282021%29.svg.png" alt="Discord">
+    <p><strong>Discord (Nosso Canal de comunicação): <a href="https://discord.gg/nVQrqERY">Convite para o Discord</a></strong></p>
+  </li>
+</ul>
+
+
   
   <h2>Relatórios das Entregas</h2>
   <h3>Entrega 1:</h3>
