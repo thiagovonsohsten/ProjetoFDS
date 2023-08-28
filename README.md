@@ -32,7 +32,8 @@
     </li>
   </ul>
   
-  <h2>Nosso Produto (Descrição)</h2>
+  <h2>Nosso Produto(Descrição)</h2>
+  <p><strong> A aplicação web "Prainha" é uma plataforma de comércio eletrônico que oferece uma experiência única de compra de produtos relacionados à praia. Através da plataforma "Prainha", os usuários podem explorar uma ampla variedade de produtos, desde trajes de banho estilosos e acessórios de praia até equipamentos esportivos e produtos para lazer à beira-mar. Com um foco especializado em tudo relacionado à praia, a loja oferece uma maneira conveniente e eficaz para os amantes da praia adquirirem itens essenciais para sua diversão e conforto.</strong></p>
 
   <h2>Linguagens Utilizadas</h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="HTML">
