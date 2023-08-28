@@ -40,11 +40,11 @@
 <ul>
   <li>
     <img src="https://yt3.googleusercontent.com/ytc/AOPolaRSNBeXMzNCivhEawnpyXR36JkVhy6ZD0zou2vPOw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Jira">
-    <p><strong>Jira (Histórias):</strong></p>
+    <p><strong>Jira (Histórias):<a href="https://camisasnordeste.atlassian.net/jira/software/projects/PRAIA/boards/5/backlog?epics=visible"> Link para o Jira</a></strong></p>
   </li>
   <li>
     <img src="https://yt3.googleusercontent.com/ytc/AOPolaSniT6fNseJ5-j8Y5nGJoBdXG3qX7aWq-HXOrkQkw=s176-c-k-c0x00ffffff-no-rj" alt="Figma">
-    <p><strong>Figma (Protótipo Lo-Fi):</strong></p>
+    <p><strong>Figma (Protótipo Lo-Fi):  <a href="">Link para o Figma</a> </strong></p>
   </li>
   <li>
     <img src="https://yt3.googleusercontent.com/IKyXeSMd3DtfAjRGyKicdwlrzD4bIGdpsRepFg6yJ5cUloq7AilRgUQjK7yPeNVNQguNh09r=s176-c-k-c0x00ffffff-no-rj" alt="Drive">
