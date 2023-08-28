@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Loja de Praia - Aplicação Web</title>
+
 </head>
 <body>
   <h1>Loja de Praia - Aplicação Web</h1>
