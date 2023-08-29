@@ -6,7 +6,7 @@
 <body>
   <h1>Loja de Praia - Aplicação Web</h1>
   
-  <p>Bem-vindo ao repositório da aplicação web da nossa loja de praia, desenvolvida com Python, Django, Html e CSS! Esta aplicação permite aos usuários visualizar e comprar produtos relacionados à praia.</p>
+  <p>Bem-vindo ao repositório da aplicação web da Prainha, nossa loja de praia, desenvolvida com Python, Django, Html e CSS! Esta aplicação permite aos usuários visualizar e comprar produtos relacionados à praia.</p>
   
   <h2>Equipe de Desenvolvimento</h2>
   <ul>
