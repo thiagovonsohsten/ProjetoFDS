@@ -44,7 +44,7 @@
   </li>
   <li>
     <img src="https://yt3.googleusercontent.com/ytc/AOPolaSniT6fNseJ5-j8Y5nGJoBdXG3qX7aWq-HXOrkQkw=s176-c-k-c0x00ffffff-no-rj" alt="Figma">
-    <p><strong>Figma (Protótipo Lo-Fi):  <a href="">Link para o Figma</a> </strong></p>
+    <p><strong>Figma (Protótipo Lo-Fi):  <a href="https://www.figma.com/file/UTJ9BWlGEv3UZyJ8s1EcR0/Loja-de-Praia?type=design&node-id=1%3A150&mode=design&t=I2mxal7JuisO86Rt-1">Link para o Figma</a> </strong></p>
   </li>
   <li>
     <img src="https://yt3.googleusercontent.com/IKyXeSMd3DtfAjRGyKicdwlrzD4bIGdpsRepFg6yJ5cUloq7AilRgUQjK7yPeNVNQguNh09r=s176-c-k-c0x00ffffff-no-rj" alt="Drive">
