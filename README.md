@@ -11,7 +11,7 @@
   <h2>Equipe de Desenvolvimento</h2>
   <ul>
     <li>
-      <img src="https://media.licdn.com/dms/image/D4D03AQFvkXZAgyzRXA/profile-displayphoto-shrink_200_200/0/1664574837648?e=1698278400&v=beta&t=cKWZvnrFO_9NmhyuBVceIvVATdmr9cTJwNgCG-l6Gik" alt="Foto do Membro 1" width="100">
+      <img src="https://pps.whatsapp.net/v/t61.24694-24/368254178_835706371567170_100638420400775806_n.jpg?ccb=11-4&oh=01_AdTWC6JCcj1_Eg1ilETgPMg0xtz3U3TtkpF_rsVLnQknVw&oe=650EE10F&_nc_sid=000000&_nc_cat=101" alt="Foto do Membro 1" width="100">
       <p><strong>Thiago von Sohsten</strong><br>Email: tlvs@cesar.school</p>
     </li>
     <li>
@@ -23,11 +23,11 @@
       <p><strong>Tiago Stamford</strong><br>Email: tjs2@cesar.school</p>
     </li>
     <li>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Foto de Artur Melo" width="100">
+      <img src="https://pps.whatsapp.net/v/t61.24694-24/361652132_3438805623035442_9149070526625247488_n.jpg?ccb=11-4&oh=01_AdS5pWvqSpP3jsJ2W2SQ3roiehKodIBJBQty6T6rIUrbyA&oe=650DC162&_nc_sid=000000&_nc_cat=107" width = "100">
       <p><strong>Artur Melo</strong><br>Email: avsam@cesar.school</p>
     </li>
     <li>
-      <img src="" alt="Foto de Luis Felipe" width="100">
+      <img src="https://pps.whatsapp.net/v/t61.24694-24/375630183_698249455455955_867047080040831140_n.jpg?ccb=11-4&oh=01_AdQmXQUrg4vMSzDab1pAZ4CzspjiDCUT2-ApMCsJQcF7ng&oe=650CCEC4&_nc_sid=000000&_nc_cat=108" alt="Foto de Luis Felipe" width="100">
       <p><strong>Luis Felipe</strong><br>Email: lffl@cesar.school</p>
     </li>
   </ul>
