@@ -64,7 +64,7 @@
   <h2>Relatórios das Entregas</h2>
 <div style="text-align: justify;">
   <h3>Entrega 1:</h3>
-  <p>A equipe inteira se reuniu no Discord para definir as histórias que posteriomente foram postas no backlog do jira, Thiago von Sohsten e Lucas Dias ficaram responsáveis pela criação do Jira e sua configuração. O protótipo Lo-Fi foi realizado por Thiago von Sohsten através do Figma, e a gravação do Screencast do protótipo foi roteirizada e auxiliada por Luis Felipe e Tiago Jardim. É importante mencionar que o integrante Artur Melo deu entrada no processo de trancamento de curso, portanto o grupo que inicialmente contava com 5 membros agora conta com apenas 4.</p>
+  <p>A equipe inteira se reuniu no Discord para definir as histórias que posteriomente foram postas no backlog do jira, Thiago von Sohsten e Lucas Dias ficaram responsáveis pela criação do Jira e sua configuração. O protótipo Lo-Fi foi realizado por Thiago von Sohsten através do Figma, e a gravação do Screencast do protótipo foi realizada por Thiago von Sohsten, roteirizada e auxiliada por Luis Felipe e Tiago Jardim. É importante mencionar que o integrante Artur Melo deu entrada no processo de trancamento de curso, portanto o grupo que inicialmente contava com 5 membros agora conta com apenas 4.</p>
 </div>
 
   <h3>Entrega 2:</h3>
