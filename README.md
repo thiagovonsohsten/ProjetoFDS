@@ -22,11 +22,7 @@
       <img src="https://media.licdn.com/dms/image/D4D03AQE24HnK2quhIA/profile-displayphoto-shrink_200_200/0/1683226976049?e=1698278400&v=beta&t=VRJhDY1yUNPBMU5pBmTxBgipmhyHTCGxTE5M28oMr2I" alt="Foto do Membro 3" width="100">
       <p><strong>Tiago Stamford</strong><br>Email: tjs2@cesar.school</p>
     </li>
-    <li>
-      <img src="https://pps.whatsapp.net/v/t61.24694-24/361652132_3438805623035442_9149070526625247488_n.jpg?ccb=11-4&oh=01_AdS5pWvqSpP3jsJ2W2SQ3roiehKodIBJBQty6T6rIUrbyA&oe=650DC162&_nc_sid=000000&_nc_cat=107" width = "100">
-      <p><strong>Artur Melo</strong><br>Email: avsam@cesar.school</p>
-    </li>
-    <li>
+   <li>
       <img src="https://pps.whatsapp.net/v/t61.24694-24/375630183_698249455455955_867047080040831140_n.jpg?ccb=11-4&oh=01_AdQmXQUrg4vMSzDab1pAZ4CzspjiDCUT2-ApMCsJQcF7ng&oe=650CCEC4&_nc_sid=000000&_nc_cat=108" alt="Foto de Luis Felipe" width="100">
       <p><strong>Luis Felipe</strong><br>Email: lffl@cesar.school</p>
     </li>
@@ -56,6 +52,11 @@
   </li>
 </ul>
 
+<h2>Print do quadro do jira:</h2>
+<img src="https://pbs.twimg.com/media/F6T5sDCXIAA6tNT?format=webp&name=small" alt="quadro">
+<br>
+<h2>Print do baclog do jira:</h2>
+<img src="https://pbs.twimg.com/media/F6T6YZfWQAE9rxs?format=webp&name=small" alt="backlog">
 
   
   <h2>Relatórios das Entregas</h2>
