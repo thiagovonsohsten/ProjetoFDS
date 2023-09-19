@@ -11,7 +11,7 @@
   <h2>Equipe de Desenvolvimento</h2>
   <ul>
     <li>
-      <img src="https://pps.whatsapp.net/v/t61.24694-24/368254178_835706371567170_100638420400775806_n.jpg?ccb=11-4&oh=01_AdTWC6JCcj1_Eg1ilETgPMg0xtz3U3TtkpF_rsVLnQknVw&oe=650EE10F&_nc_sid=000000&_nc_cat=101" alt="Foto do Membro 1" width="100">
+      <img src="https://pps.whatsapp.net/v/t61.24694-24/377207330_1062704491564581_8595527620799565958_n.jpg?ccb=11-4&oh=01_AdQx8Rs7oFxHkrXUZEOMWyspy8TZdHfHyxTXCBxqzQlMxw&oe=6516B825&_nc_sid=000000&_nc_cat=106" alt="Foto do Membro 1" width="100">
       <p><strong>Thiago von Sohsten</strong><br>Email: tlvs@cesar.school</p>
     </li>
     <li>
